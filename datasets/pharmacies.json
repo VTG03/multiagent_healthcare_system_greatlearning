@@ -1,0 +1,105 @@
+[
+  {
+    "id": "ph001",
+    "name": "MedQuick Andheri",
+    "lat": 19.12,
+    "lon": 72.84,
+    "services": [
+      "24x7",
+      "delivery"
+    ],
+    "delivery_km": 12
+  },
+  {
+    "id": "ph002",
+    "name": "CarePlus Bandra",
+    "lat": 19.06,
+    "lon": 72.83,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 8
+  },
+  {
+    "id": "ph003",
+    "name": "CityMeds Powai",
+    "lat": 19.12,
+    "lon": 72.91,
+    "services": [
+      "24x7"
+    ],
+    "delivery_km": 10
+  },
+  {
+    "id": "ph004",
+    "name": "WellCare Dadar",
+    "lat": 19.02,
+    "lon": 72.84,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 9
+  },
+  {
+    "id": "ph005",
+    "name": "HealthHub Worli",
+    "lat": 19.01,
+    "lon": 72.82,
+    "services": [
+      "24x7",
+      "delivery"
+    ],
+    "delivery_km": 11
+  },
+  {
+    "id": "ph006",
+    "name": "Lifeline Malad",
+    "lat": 19.2,
+    "lon": 72.85,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 7
+  },
+  {
+    "id": "ph007",
+    "name": "CurePoint Thane",
+    "lat": 19.21,
+    "lon": 72.97,
+    "services": [
+      "24x7"
+    ],
+    "delivery_km": 15
+  },
+  {
+    "id": "ph008",
+    "name": "PharmaEase Vashi",
+    "lat": 19.07,
+    "lon": 73.0,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 10
+  },
+  {
+    "id": "ph009",
+    "name": "MediKart Ghatkopar",
+    "lat": 19.09,
+    "lon": 72.91,
+    "services": [
+      "24x7",
+      "delivery"
+    ],
+    "delivery_km": 12
+  },
+  {
+    "id": "ph010",
+    "name": "RxExpress Borivali",
+    "lat": 19.23,
+    "lon": 72.86,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 9
+  }
+]

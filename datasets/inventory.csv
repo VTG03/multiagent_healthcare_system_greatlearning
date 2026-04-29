@@ -1,0 +1,11 @@
+pharmacy_id,sku,drug_name,form,strength,price,qty
+ph001,OTC001,Paracetamol,tablet,500mg,2.0,50
+ph001,OTC002,Cough Syrup,bottle,100ml,5.0,25
+ph002,OTC003,Antihistamine,tablet,10mg,3.5,40
+ph002,OTC004,Oral Rehydration Salts,sachet,20g,7.0,20
+ph003,OTC005,Vitamin C Chewable,tablet,500mg,2.5,60
+ph004,OTC006,Saline Nasal Spray,bottle,30ml,6.0,15
+ph005,OTC007,Antacid,tablet,500mg,2.0,45
+ph006,OTC008,Multivitamin,tablet,1tab,3.0,70
+ph007,OTC009,Cetirizine,tablet,10mg,1.5,80
+ph008,OTC010,Ibuprofen,tablet,200mg,2.5,30

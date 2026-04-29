@@ -1,0 +1,11 @@
+sku,drug_name,indication,age_min,contra_allergy_keywords
+OTC001,Paracetamol,fever,0,acetaminophen
+OTC002,Cough Syrup,cough,12,dextromethorphan
+OTC003,Antihistamine,cold,6,aspirin
+OTC004,Oral Rehydration Salts,dehydration,0,
+OTC005,Vitamin C Chewable,immunity,4,
+OTC006,Saline Nasal Spray,congestion,0,
+OTC007,Antacid,acidity,5,aluminum
+OTC008,Multivitamin,fatigue,0,
+OTC009,Cetirizine,allergy,6,
+OTC010,Ibuprofen,pain,12,ibuprofen

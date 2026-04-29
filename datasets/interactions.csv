@@ -1,0 +1,6 @@
+drug_a,drug_b,level,note
+OTC001,OTC003,moderate,Both may contain acetaminophen; avoid duplication.
+OTC002,OTC003,minor,Combined use may cause drowsiness.
+OTC007,OTC010,major,Concurrent use may cause stomach irritation.
+OTC009,OTC002,minor,May increase sedation when used together.
+OTC008,OTC005,minor,"No harmful interaction, but redundant for short duration."

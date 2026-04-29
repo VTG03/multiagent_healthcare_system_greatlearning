@@ -1,0 +1,11 @@
+doctor_id,name,specialty,tele_slots
+d001,Dr. Aditi Sharma,General Physician,"['2025-10-09T09:00:00Z','2025-10-09T14:00:00Z']"
+d002,Dr. Ravi Patel,Pulmonologist,"['2025-10-09T15:00:00Z','2025-10-09T19:00:00Z']"
+d003,Dr. Meera Shah,General Physician,"['2025-10-09T10:30:00Z','2025-10-09T16:00:00Z']"
+d004,Dr. Karan Verma,Cardiologist,['2025-10-10T09:00:00Z']
+d005,Dr. Ria Sen,Dermatologist,['2025-10-10T13:00:00Z']
+d006,Dr. Arjun Das,ENT Specialist,['2025-10-10T15:00:00Z']
+d007,Dr. Pooja Nair,Pediatrician,['2025-10-11T09:30:00Z']
+d008,Dr. Kabir Mehta,General Physician,['2025-10-11T11:00:00Z']
+d009,Dr. Sonal Joshi,Pulmonologist,['2025-10-11T12:30:00Z']
+d010,Dr. Neha Kapoor,General Physician,['2025-10-11T17:00:00Z']
