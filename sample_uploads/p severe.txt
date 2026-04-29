@@ -1,0 +1,24 @@
+Patient Report – Case ID: P7
+
+Name: [Hidden for privacy]
+Age: 55
+Gender: Female
+Allergies: Aspirin
+Primary Symptoms: High fever, persistent cough, shortness of breath, chest tightness
+SpO2: 88%
+Category: COVID_Suspect (Severe)
+Pincode: 110021
+Latitude: 28.5955
+Longitude: 77.1700
+
+Clinical Notes:
+Patient presented with continuous cough and difficulty breathing for the last 3 days.
+Temperature recorded: 102.5°F. Oxygen saturation is below 90%, indicating hypoxemia.
+Breathing rate elevated. Chest discomfort and mild confusion reported.
+Preliminary chest X-ray shows diffuse bilateral infiltrates consistent with viral pneumonia pattern.
+Immediate escalation to a Pulmonologist is advised. Patient should not self-medicate.
+Isolation protocol initiated. Recommend urgent RT-PCR confirmation and hospital admission
+for continuous oxygen support and close monitoring of vitals.
+
+Physician Remarks:
+Condition classified as SEVERE respiratory involvement.
